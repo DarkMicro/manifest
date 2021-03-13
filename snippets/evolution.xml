@@ -22,7 +22,7 @@
 
   <remote  name="octavi"
            fetch="https://github.com/Octavi-OS"
-           revision="refs/heads/10" />
+           revision="refs/heads/11" />
 
   <!-- Remove unused hardware repos -->
   <remove-project name="device/amlogic/yukawa" />
