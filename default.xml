@@ -771,5 +771,7 @@
 
   <!-- LineageOS -->
   <include name="snippets/lineage.xml" />
+  
+  include name="snippets/starlte.xml" />
 
 </manifest>
