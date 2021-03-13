@@ -6,15 +6,15 @@
 
   <remote  name="evo"
            fetch="https://github.com/Evolution-X"
-           revision="refs/heads/elle" />
+           revision="refs/heads/ten" />
 
   <remote  name="evo-devices"
            fetch="https://github.com/Evolution-X-Devices"
-           revision="refs/heads/elle" />
+           revision="refs/heads/ten" />
 
   <remote  name="evo-gitlab"
            fetch="https://gitlab.com/EvoX"
-           revision="refs/heads/elle" />
+           revision="refs/heads/ten" />
 
   <remote  name="github/hentaiOS"
            fetch="https://github.com/hentaiOS"
@@ -22,7 +22,7 @@
 
   <remote  name="octavi"
            fetch="https://github.com/Octavi-OS"
-           revision="refs/heads/11" />
+           revision="refs/heads/10" />
 
   <!-- Remove unused hardware repos -->
   <remove-project name="device/amlogic/yukawa" />
